@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { CompCreateUser } from './deportes/Crearusuarios.jsx'
-import { CompShowUsers } from './deportes/Mostrarusuarios.jsx'
+import { CompShowUsers } from './deportes/mostrarusuarios.jsx'
 import { CompEditUser } from './deportes/Editarusuario.jsx'
 import { CompCreateEvento } from './deportes/CrearEventos.jsx'
 import {CompMostrarEvento} from './deportes/Mostrareventos.jsx'
